@@ -2,10 +2,10 @@
   "name": "vscode-abb-pluto-plc-syntax",
   "displayName": "ABB Pluto PLC Syntax Highlighting",
   "description": "Partial syntax highlighting support for ABB Safety PLC Pluto Manager .sps/.fps files.\nThis extension is based on the public documentation available on the ABB website.",
-  "publisher": "rktr1998",
+  "publisher": "rito1998",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rktr1998/vscode-abb-pluto-plc-syntax"
+    "url": "https://github.com/rito1998/vscode-abb-pluto-plc-syntax"
   },
   "version": "0.1.3",
   "engines": {
